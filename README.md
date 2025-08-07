@@ -1,6 +1,7 @@
 # Reusable DCF Model Tool
 
-A reusable, Excel-based Discounted Cash Flow (DCF) valuation tool written in Python.
+This project is my bsaic implementation of a reusable, Excel-based Discounted Cash Flow (DCF) valuation tool written in Python.
+It reads financial inputs from an Excel spreadsheet, calculates projected Free Cash Flows, WACC, Terminal Value, and derives the Enterprise & Equity Value.
 
 ## 📦 Features
 
