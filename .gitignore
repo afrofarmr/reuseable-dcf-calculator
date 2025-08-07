@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS metadata
+.DS_Store
+
+# VSCode settings (optional if you don't want to share settings)
+.vscode/
+
+# Log files and output
+*.log
+
+# Python egg metadata
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+
+# Excel temporary files
+~$*.xlsx
+*.bak
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy / Pylint / other static analysis
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/

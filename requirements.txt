@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+gspread
+oauth2client
+matplotlib
+xlsxwriter
+setuptools
